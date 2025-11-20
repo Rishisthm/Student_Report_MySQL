@@ -64,7 +64,7 @@ Covers advanced SQL concepts:
 1. Run `DB.sql` to create all tables and insert sample data  
 2. Run analysis queries from `SELECT,JOIN…sql`  
 3. Execute advanced scripts from `commit,rollback_queries.sql`  
-4. Use ER diagram (if uploaded) to understand complete schema  
+4. Use ER diagram to understand complete schema  
 
 ---
 
